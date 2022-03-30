@@ -12,14 +12,9 @@ Sprite Enviroment 1
 
 Link Sprite Enviroment 2
 https://raou.itch.io/free-dungeon-mini-tileset
-Sprite Enviroment 2
-![image](https://user-images.githubusercontent.com/78667060/160914652-5e726f08-8cf1-4d72-8e5f-18202f9520bb.png)
 
 Link Enviroment 3 (Davi)
 https://opengameart.org/content/zelda-like-tilesets-and-sprites
-Enviroment 3
-<img src="https://opengameart.org/sites/default/files/styles/medium/public/951a7f47f87b1dbe262b27fba196f3bf.png" alt="Preview"/>![Uploading image.png…]()
-
 
 # Links
 Link Course Unity (Telegram)
