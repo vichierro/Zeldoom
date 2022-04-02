@@ -17,8 +17,6 @@ Link Enviroment 3 (Davi)
 https://opengameart.org/content/zelda-like-tilesets-and-sprites
 
 # Links
-Link Course Unity (Telegram)
-https://t.me/joinchat/zRCutoHX2A0xOWEx
 
 Link Video Youtube (Abrahão)
 https://www.youtube.com/watch?v=3G8jpTduUlU
